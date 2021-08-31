@@ -1,6 +1,6 @@
 ## Hello There 👋
 
-- 👨‍💻 I'm [Zouhir Yacouri](https://yacouri.com), a front end web developer & self-taught Ui/Ux designer as well.
+- 👨‍💻 I'm [Zouhir Yaçouri](https://yacouri.com) AKA YACOURI, a front end web developer & self-taught Ui/Ux designer as well.
 - 🚀 Currently i’m working as a freelancer i help startups to take their businesses online & assisting them to scale.
 
 <hr />
